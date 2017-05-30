@@ -1,0 +1,12 @@
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\bin\Debug\AirRecordSystem.exe.config
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\bin\Debug\AirRecordSystem.exe
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\bin\Debug\AirRecordSystem.pdb
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\Interop.ADOX.dll
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.csproj.ResolveComReference.cache
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.Properties.Resources.resources
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.src.UI.CurveControl.resources
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.src.UI.FormAction.resources
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.csproj.GenerateResource.Cache
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.exe
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.pdb
+E:\work-space\visual-studio-2013-for-cs\AirRecordSystem\AirRecordSystem\obj\Debug\AirRecordSystem.csprojResolveAssemblyReference.cache
